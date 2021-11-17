@@ -31,5 +31,5 @@ The dashboard will focus primarily on SEPTA rail and bus services, incorporating
 
 ## Wireframes
 
-* [Initial sketches](INSERT HERE)
-* [More detail](INSERT HERE)
+* [Initial sketches](INSERT LINK HERE)
+* [More detail](INSERT LINK HERE)
