@@ -31,9 +31,4 @@ The dashboard will focus primarily on SEPTA rail and bus services, incorporating
 
 ## Wireframes
 
-[Detail](https://docs.google.com/presentation/d/1WQt_ryHEUxQoZPnBtShEOhjGH0DA1yorD8q37yPxdwg/edit?usp=sharing)
-
-Quick sketches:
-![Wireframe-main_page](https://user-images.githubusercontent.com/90015778/142436296-ede8397d-e6fd-4e5c-a699-4bc648a6ef51.jpg)
-
-![Wireframe-neighborhood_page](https://user-images.githubusercontent.com/90015778/142436366-9512a719-bf1d-4498-9622-09736dc963a8.jpg)
+[Sketches and Detail](https://docs.google.com/presentation/d/1WQt_ryHEUxQoZPnBtShEOhjGH0DA1yorD8q37yPxdwg/edit?usp=sharing)
